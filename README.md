@@ -7,7 +7,6 @@
 👯 Enjoys both inter-professional teamwork and independent working. Skilled at leveraging backgrounds and strengths to support detailed analysis and efficient development, which makes me a valuable addition to any team. 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=QianyueMa)
-![counter](https://[YourEndpoint].m.pipedream.net)
 
 <!--
 Here are some ideas to get you started:
