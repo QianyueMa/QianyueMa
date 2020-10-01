@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 A research and data analytics enthusiast with an academic background in Economics, Psychology, and Philosophy from the University of Toronto as well as technical skills in Python, JavaScript, databases including SQL and MongoDB, ETL process, front-end web development including HTML5/CSS and Bootstrap, Tableau, R, SAS, Stata, SPSS, Excel VBA, Cloud platforms such as Azure and Heroku, and more. 
+🔭 A research and data analytics enthusiast with an academic background in Economics, Psychology, and Philosophy from the University of Toronto as well as 🌱 technical skills in Python, JavaScript, databases including SQL and MongoDB, ETL process, front-end web development including HTML5/CSS and Bootstrap, Tableau, R, SAS, Stata, SPSS, Excel VBA, Cloud platforms such as Azure and Heroku, and more. 
 
 🤔 A quick learner and analytical thinker with great critical thinking capability and insatiable intellectual curiosity, with the abundant experiences in data analysis and research implementation.
 
